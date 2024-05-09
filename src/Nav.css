@@ -1,0 +1,11 @@
+.Nav {
+  margin-top: 20px;
+}
+.Nav-button {
+  padding: 5px 15px;
+  font-size: larger;
+  color: black;
+  background-color: aquamarine;
+  border-radius: 7px;
+  margin: 5px;
+}
