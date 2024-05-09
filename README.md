@@ -29,8 +29,6 @@ To run the application locally, follow these steps:
 git clone https://github.com/your-username/color-factory.git
 ```
 
-````
-
 2. Navigate to the project directory:
 
 ```bash
@@ -83,7 +81,3 @@ color-factory/
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
-
-````
